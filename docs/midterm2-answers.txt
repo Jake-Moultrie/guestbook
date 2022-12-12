@@ -1,2 +1,2 @@
 3-2: No
-3-3: You would need to push the changes for it to sync across to github.com
+3-3: You would need to commit and push the changes for it to sync across to github.com
