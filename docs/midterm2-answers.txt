@@ -2,6 +2,7 @@
 3-2: No
 3-3: You would need to commit and push the changes for it to sync across to github.com
 3-4: Action complete
+
 3-5: Action complete
 3-6: Action complete
 3-7: No
@@ -10,4 +11,14 @@
 3-12: It means that there is a change to the file on gitHubt that has yet to be pulled down.
 3-13: A window popped up asking me if I woudl like to keep the GitHub or Replit version, and then confirming my decision.
 3-14: No I don't see both statements; HEAD refers to gitHub; origin/main refers to repl.it
+3-17: just one branch
+3-21: the files on the webdev branch are pulled
+
+3-23: CSS
+3-24: HTML
+3-25: JavaScript
+3-26: PHP
+This is something different
+
+this is the very last line.
 
