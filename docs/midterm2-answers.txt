@@ -10,6 +10,4 @@
 3-12: It means that there is a change to the file on gitHubt that has yet to be pulled down.
 3-13: A window popped up asking me if I woudl like to keep the GitHub or Replit version, and then confirming my decision.
 3-14: No I don't see both statements; HEAD refers to gitHub; origin/main refers to repl.it
-3-17: just one branch
-This is something different
-this is the very last line.
+
